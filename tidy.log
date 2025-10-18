@@ -709,12 +709,12 @@ Parsing GTFS feed in 'es_VAC-245.-Huesca-Barcelona.gtfs.zip' ... done. (58784 tr
 Removing unreferenced entries... done. (-0 trips [-0.00%], -5700 stops [-4.67%], -0 shapes [-0.00%], -219 services [-4.62%], -0 routes [-0.00%], -0 agencies [-0.00%], -18 transfers [-2.56%])
 Removing redundant agencies... done. (-8 agencies [-2.04%])
 Removing redundant stops... done. (-319 stops [-0.27%])
-Reclustering stops... done. (-44007 clusters) [-38.72%]
+Reclustering stops... done. (-43992 clusters) [-38.71%]
 Removing redundant routes... done. (-2840 routes [-19.41%])
 Removing service duplicates... done. (-660 services [-14.60%])
-Removing redundant trips... done. (-446537 trips [-28.81%])
-Removing unreferenced entries... done. (-0 trips [-0.00%], -20 stops [-0.01%], -0 shapes [-0.00%], -94215 services [-37.10%], -20 routes [-0.17%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Removing service duplicates... done. (-155713 services [-97.46%])
-Adding parent stations to all stops... done. (+39143 stations)
+Removing redundant trips... done. (-388314 trips [-25.06%])
+Removing unreferenced entries... done. (-0 trips [-0.00%], -17 stops [-0.01%], -0 shapes [-0.00%], -68107 services [-27.64%], -15 routes [-0.13%], -0 agencies [-0.00%], -0 transfers [-0.00%])
+Removing service duplicates... done. (-174273 services [-97.73%])
+Adding parent stations to all stops... done. (+39150 stations)
 Encoding stop_ids via parent_station ids ... done.
 Outputting GTFS feed to 'gtfs_spain_clean.zip'... done.
