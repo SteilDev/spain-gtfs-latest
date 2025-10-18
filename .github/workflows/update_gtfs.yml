@@ -48,9 +48,9 @@ jobs:
         run: |
           export PATH=$PATH:$HOME/go/bin
           for g in es_*.zip; do
-            gtfstidy "$g" -i --fix --keep-station-ids --fix-zip --remove-red-services --remove-fillers --drop-shapes --delete-orphans --output "$g"
+            gtfstidy "$g" -i --fix --fix-zip --remove-red-services --remove-fillers --drop-shapes --delete-orphans --output "$g"
           done > tidy.log
-          gtfstidy -EARPICO --red-trips-fuzzy --red-stops-fuzzy --drop-shapes --hierarchical-stop-ids --prefix="es:" es_*.zip -o gtfs_spain_clean.zip --fix --remove-fillers --ensure-stop-parents --explicit-calendar >> tidy.log
+          gtfstidy -EARPICO --dist-threshold-stop 200 --red-trips-fuzzy --red-stops-fuzzy --drop-shapes --hierarchical-stop-ids --prefix="es:" es_*.zip -o gtfs_spain_clean.zip --fix --remove-fillers --ensure-stop-parents --explicit-calendar >> tidy.log
 
       - name: Upload cleaned GTFS as release asset
         uses: softprops/action-gh-release@v1
