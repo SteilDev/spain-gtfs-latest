@@ -8,7 +8,7 @@ Outputting GTFS feed to 'es_AECFA-slots.gtfs.zip'... done.
 Parsing GTFS feed in 'es_ALSA-autobuses.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-0 trips [-0.00%])
 Removing unreferenced entries... done. (-0 trips [-0.00%], -2 stops [-0.02%], -0 shapes [-0.00%], -0 services [-0.00%], -4 routes [-0.23%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Reclustering stops... done. (-2445 clusters) [-21.90%]
+Reclustering stops... done. (-2443 clusters) [-21.89%]
 Removing service duplicates... done. (-300 services [-31.48%])
 Minimizing ids... done.
 Outputting GTFS feed to 'es_ALSA-autobuses.gtfs.zip'... done.
@@ -57,14 +57,14 @@ Outputting GTFS feed to 'es_Autob%C3%BAs-en-Cantabria.gtfs.zip'... done.
 Parsing GTFS feed in 'es_Autob%C3%BAs-interurbano-Comunidad-Valenciana.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-2 trips [-0.02%])
 Removing unreferenced entries... done. (-0 trips [-0.00%], -1698 stops [-33.70%], -0 shapes [-0.00%], -0 services [-0.00%], -35 routes [-10.67%], -3 agencies [-6.00%], -0 transfers [-0.00%])
-Reclustering stops... done. (-947 clusters) [-28.34%]
+Reclustering stops... done. (-946 clusters) [-28.31%]
 Removing service duplicates... done. (-1 services [-4.35%])
 Minimizing ids... done.
 Outputting GTFS feed to 'es_Autob%C3%BAs-interurbano-Comunidad-Valenciana.gtfs.zip'... done.
 Parsing GTFS feed in 'es_Autob%C3%BAs-interurbano-de-Catalu%C3%B1a.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-5 trips [-0.02%])
 Removing unreferenced entries... done. (-0 trips [-0.00%], -341 stops [-3.92%], -0 shapes [-0.00%], -1 services [-0.56%], -69 routes [-7.56%], -1394 agencies [-93.24%], -0 transfers [-0.00%])
-Reclustering stops... done. (-1578 clusters) [-18.88%]
+Reclustering stops... done. (-1576 clusters) [-18.86%]
 Removing service duplicates... done. (-64 services [-35.95%])
 Minimizing ids... done.
 Outputting GTFS feed to 'es_Autob%C3%BAs-interurbano-de-Catalu%C3%B1a.gtfs.zip'... done.
@@ -78,14 +78,14 @@ Outputting GTFS feed to 'es_Autob%C3%BAs-interurbano-de-Navarra.gtfs.zip'... don
 Parsing GTFS feed in 'es_Autob%C3%BAs-interurbano-de-Tenerife.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-0 trips [-0.00%])
 Removing unreferenced entries... done. (-0 trips [-0.00%], -0 stops [-0.00%], -0 shapes [-0.00%], -0 services [-0.00%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Reclustering stops... done. (-1324 clusters) [-34.37%]
+Reclustering stops... done. (-1323 clusters) [-34.35%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
 Outputting GTFS feed to 'es_Autob%C3%BAs-interurbano-de-Tenerife.gtfs.zip'... done.
 Parsing GTFS feed in 'es_Autob%C3%BAs-metropolitano-Barcelona.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-0 trips [-0.00%])
 Removing unreferenced entries... done. (-0 trips [-0.00%], -1397 stops [-28.77%], -0 shapes [-0.00%], -6 services [-2.32%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Reclustering stops... done. (-595 clusters) [-17.21%]
+Reclustering stops... done. (-593 clusters) [-17.15%]
 Removing service duplicates... done. (-176 services [-69.56%])
 Minimizing ids... done.
 Outputting GTFS feed to 'es_Autob%C3%BAs-metropolitano-Barcelona.gtfs.zip'... done.
@@ -218,7 +218,7 @@ Outputting GTFS feed to 'es_Autob%C3%BAs-urbano-de-Valencia.gtfs.zip'... done.
 Parsing GTFS feed in 'es_Autob%C3%BAs-urbano-de-Valladolid.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-0 trips [-0.00%])
 Removing unreferenced entries... done. (-0 trips [-0.00%], -0 stops [-0.00%], -0 shapes [-0.00%], -1 services [-4.17%], -6 routes [-11.11%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Reclustering stops... done. (-106 clusters) [-18.73%]
+Reclustering stops... done. (-107 clusters) [-18.90%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
 Outputting GTFS feed to 'es_Autob%C3%BAs-urbano-de-Valladolid.gtfs.zip'... done.
@@ -302,7 +302,7 @@ Outputting GTFS feed to 'es_Autobuses-Urbanos-de-Ciudad-Real.gtfs.zip'... done.
 Parsing GTFS feed in 'es_Autobuses-Xunta-de-Galicia.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-32 trips [-0.02%])
 Removing unreferenced entries... done. (-0 trips [-0.00%], -50 stops [-0.19%], -0 shapes [-0.00%], -0 services [-0.00%], -407 routes [-6.19%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Reclustering stops... done. (-6652 clusters) [-24.82%]
+Reclustering stops... done. (-6641 clusters) [-24.78%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
 Outputting GTFS feed to 'es_Autobuses-Xunta-de-Galicia.gtfs.zip'... done.
@@ -680,7 +680,7 @@ Outputting GTFS feed to 'es_Salamanca-de-Transportes-S.A.-.gtfs.zip'... done.
 Parsing GTFS feed in 'es_Sarfa-autobuses.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-0 trips [-0.00%])
 Removing unreferenced entries... done. (-0 trips [-0.00%], -0 stops [-0.00%], -0 shapes [-0.00%], -0 services [-0.00%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Reclustering stops... done. (-126 clusters) [-27.94%]
+Reclustering stops... done. (-125 clusters) [-27.72%]
 Removing service duplicates... done. (-0 services [-0.00%])
 Minimizing ids... done.
 Outputting GTFS feed to 'es_Sarfa-autobuses.gtfs.zip'... done.
@@ -701,14 +701,14 @@ Outputting GTFS feed to 'es_Transbordador-Puente-Bizkaia.gtfs.zip'... done.
 Parsing GTFS feed in 'es_Transporte-metropolitano-Andaluc%C3%ADa.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-6 trips [-0.04%])
 Removing unreferenced entries... done. (-0 trips [-0.00%], -25 stops [-0.51%], -0 shapes [-0.00%], -19 services [-5.81%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Reclustering stops... done. (-1533 clusters) [-31.23%]
+Reclustering stops... done. (-1534 clusters) [-31.26%]
 Removing service duplicates... done. (-201 services [-65.26%])
 Minimizing ids... done.
 Outputting GTFS feed to 'es_Transporte-metropolitano-Andaluc%C3%ADa.gtfs.zip'... done.
 Parsing GTFS feed in 'es_Transporte-metropolitano-de-Barcelona-%28Bus-y-Metro%29.gtfs.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing trips travelling too fast...done. (-6238 trips [-13.35%])
 Removing unreferenced entries... done. (-0 trips [-0.00%], -329 stops [-9.54%], -0 shapes [-0.00%], -1 services [-2.78%], -9 routes [-7.83%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Reclustering stops... done. (-225 clusters) [-9.18%]
+Reclustering stops... done. (-227 clusters) [-9.26%]
 Removing service duplicates... done. (-25 services [-71.43%])
 Minimizing ids... done.
 Outputting GTFS feed to 'es_Transporte-metropolitano-de-Barcelona-%28Bus-y-Metro%29.gtfs.zip'... done.
@@ -944,16 +944,16 @@ Parsing GTFS feed in 'es_VAC-232.-Madrid%2C-M%C3%A1laga-y-Algeciras-%28C%C3%A1di
 Parsing GTFS feed in 'es_VAC-245.-Huesca-Barcelona.gtfs.zip' ... done. (54658 trips [6.23%], 1297151 stop times [0.11%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 240 routes [1.85%], 4 agencies [1.29%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors. Use -W to display them.)
 Removing unreferenced entries... done. (-0 trips [-0.00%], -6009 stops [-5.22%], -0 shapes [-0.00%], -151 services [-4.91%], -0 routes [-0.00%], -0 agencies [-0.00%], -16 transfers [-17.98%])
 Removing redundant agencies... done. (-2 agencies [-0.65%])
-Adding parent stations to all stops... done. (+52555 stations)
-Removing redundant stops... done. (-1168 stops [-0.72%])
-Reclustering stops... done. (-7708 clusters) [-10.99%]
+Adding parent stations to all stops... done. (+52569 stations)
+Removing redundant stops... done. (-1158 stops [-0.72%])
+Reclustering stops... done. (-7727 clusters) [-11.01%]
 Removing redundant routes... done. (-2766 routes [-21.78%])
 Removing service duplicates... done. (-572 services [-19.56%])
-Minimizing services... done. (-40840 calendar_dates.txt entries [-83.44%], +311 calendar.txt entries [+15.60%])
-Removing redundant trips... done. (-191806 trips [-23.30%])
-Removing unreferenced entries... done. (-0 trips [-0.00%], -15 stops [-0.01%], -0 shapes [-0.00%], -21160 services [-13.57%], -10 routes [-0.10%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Removing service duplicates... done. (-132722 services [-98.45%])
-Minimizing services... done. (-2529 calendar_dates.txt entries [-20.77%], +12 calendar.txt entries [+0.58%])
+Minimizing services... done. (-40840 calendar_dates.txt entries [-83.44%], +313 calendar.txt entries [+15.72%])
+Removing redundant trips... done. (-276305 trips [-33.56%])
+Removing unreferenced entries... done. (-0 trips [-0.00%], -11 stops [-0.01%], -0 shapes [-0.00%], -27853 services [-17.32%], -8 routes [-0.08%], -0 agencies [-0.00%], -0 transfers [-0.00%])
+Removing service duplicates... done. (-130813 services [-98.41%])
+Minimizing services... done. (-2457 calendar_dates.txt entries [-20.10%], +12 calendar.txt entries [+0.58%])
 Computing stable stop ids ... done.
 Encoding stop_ids via parent_station ids ... done.
 Outputting GTFS feed to 'gtfs_spain_clean.zip'... done.
